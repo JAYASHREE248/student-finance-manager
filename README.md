@@ -25,7 +25,6 @@ A Java console-based application for tracking personal income and expenses.
 * Main.java
 * FinanceManager.java
 * Transaction.java
-* transactions.txt
 
 ## How to Run
 
@@ -43,6 +42,17 @@ A Java console-based application for tracking personal income and expenses.
 4. View Transactions
 5. Category Report
 6. Exit
+
+## Screenshots
+
+### Main Menu
+![Main Menu](main_menu.png)
+
+### Output
+![Output](output.png)
+
+### Category Report
+![Category Report](category_report.png)
 
 ## Author
 
